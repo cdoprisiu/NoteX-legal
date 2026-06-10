@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Use
+permalink: /terms/
+---
+
 # NoteX Terms of Use
 
 **Last updated: June 10, 2026**

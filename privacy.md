@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # NoteX Privacy Policy
 
 **Last updated: June 10, 2026**
